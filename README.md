@@ -15,14 +15,14 @@ iOS官方的建議規範，列出比較常遇到需要注意的地方。
 * Safe Area
 <br>針對iphoneX之後的機型
 
-![printscreen](images/sa_1.png)
-![printscreen](images/sa_2.png)
+![printscreen](sa_1.png)
+![printscreen](sa_2.png)
 
 
 * [Custom Icon Sizes](https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/custom-icons/)
 <br>建議icon尺寸30x30，[參考文章](https://medium.com/as-a-product-designer/寫給不是工程師的-ios切圖-2c6e9dc8abb)
 
-![printscreen](images/nav.png)
+![printscreen](nav.png)
 
 
 
